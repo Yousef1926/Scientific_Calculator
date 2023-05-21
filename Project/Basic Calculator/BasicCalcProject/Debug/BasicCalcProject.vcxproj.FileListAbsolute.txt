@@ -1,0 +1,18 @@
+D:\Mohamed\# UNI\PROJECT1\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+D:\Mohamed\# UNI\PROJECT1\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.MyForm.resources
+D:\Mohamed\# UNI\PROJECT1\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
+C:\Users\Behiry\Downloads\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Behiry\Downloads\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Behiry\Downloads\BasicCalcProject\BasicCalcProject\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
+C:\Users\Behiry\OneDrive\Bureau\Salah\BasicCalcProject\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Behiry\OneDrive\Bureau\Salah\BasicCalcProject\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Behiry\OneDrive\Bureau\Salah\BasicCalcProject\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
+C:\Users\Behiry\OneDrive\Bureau\Salah\BasicCalcProject\Debug\BasicCalcProject.MyForm1.resources
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.MyForm1.resources
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Dell\Desktop\New folder\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.MyForm1.resources
+C:\Users\Dell\Desktop\New folder\Project\Basic Calculator\BasicCalcProject\Debug\BasicCalcProject.vcxproj.GenerateResource.cache

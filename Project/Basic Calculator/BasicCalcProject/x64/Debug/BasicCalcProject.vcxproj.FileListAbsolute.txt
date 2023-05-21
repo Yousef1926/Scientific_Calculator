@@ -1,0 +1,8 @@
+C:\Users\Behiry\Downloads\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Behiry\Downloads\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Behiry\Downloads\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.MyForm1.resources
+C:\Users\Behiry\Downloads\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.vcxprojAssemblyReference.cache
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.MyForm.resources
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.MyForm1.resources
+C:\Users\Behiry\OneDrive\Bureau\Project\Basic Calculator\BasicCalcProject\x64\Debug\BasicCalcProject.vcxproj.GenerateResource.cache
